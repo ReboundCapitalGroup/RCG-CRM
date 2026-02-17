@@ -622,7 +622,7 @@ export default function TaxDeedCRM() {
                   <FileText className="w-5 h-5 text-white" />
                 </div>
                 <div>
-                  <h1 className="text-xl font-bold text-white">Tax Deed CRM</h1>
+                  <h1 className="text-xl font-bold text-white">Rebound Capital Group CRM</h1>
                   <p className="text-xs text-slate-400">Lead Management</p>
                 </div>
               </div>
