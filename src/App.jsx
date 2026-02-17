@@ -59,7 +59,7 @@ const INITIAL_LEADS = [
 ];
 
 const INITIAL_USERS = [
-  { id: 'admin', username: 'admin', password: 'admin123', role: 'admin', name: 'Admin User' },
+  { id: 'admin', username: 'ReboundCapitalGroup', password: 'RCG123', role: 'admin', name: 'Admin User' },
   { id: 'user1', username: 'agent1', password: 'agent123', role: 'user', name: 'Agent One' }
 ];
 
@@ -308,11 +308,7 @@ export default function TaxDeedCRM() {
               </button>
             </form>
             
-            <div className="mt-6 p-4 bg-slate-900/30 rounded-lg border border-slate-700/50">
-              <p className="text-xs text-slate-400 mb-2">Demo Credentials:</p>
-              <p className="text-xs text-slate-300">Admin: admin / admin123</p>
-              <p className="text-xs text-slate-300">Agent: agent1 / agent123</p>
-            </div>
+            
           </div>
         </div>
       </div>
